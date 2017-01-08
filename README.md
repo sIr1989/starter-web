@@ -7,6 +7,7 @@ This repository is for showing how Git and GitHub work. It is a simple website p
 Sample website with plenty of files for demos
 
 ##Introduction
+As stated  before, this is an introduction to the git project. Let's add some files.
 
 ##Deployment
 
