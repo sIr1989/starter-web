@@ -11,6 +11,7 @@ As stated above, the main purpose is to provide simple examples for Git training
 This is a simple web project, deployment can be on any web server.
 
 ## How to Contribute
+Please fork this repo and then issue Pull Requests for review.
 
 ### Copyright
 2017 GIT Training
