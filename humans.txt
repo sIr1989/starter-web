@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Sara Alaee sara.alaee@gmail.com @saraala
 
 # THANKS
 
